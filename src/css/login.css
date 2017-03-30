@@ -1,0 +1,37 @@
+.login-cmp {
+  position: absolute;
+  top: 100px;
+  left: 15px;
+  right: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #51cbee; }
+  .login-cmp h3 {
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center; }
+  .login-cmp ul {
+    padding-top: 15px; }
+    .login-cmp ul li {
+      padding: 0 10px; }
+    .login-cmp ul label {
+      display: block;
+      font-size: 14px; }
+    .login-cmp ul input {
+      display: block;
+      width: 100%;
+      height: 40px;
+      line-height: 40px;
+      margin: 5px 0;
+      padding-left: 5px;
+      border: 1px solid #51cbee; }
+  .login-cmp .btn {
+    display: block;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    text-align: center;
+    margin: 20px auto;
+    border: 1px solid #999;
+    border-radius: 5px;
+    color: #000; }

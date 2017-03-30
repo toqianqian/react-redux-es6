@@ -1,2 +1,2 @@
-# react-redux-es6
-react redux es6
+# es6-react-redux
+build the evn for the react ,including redux

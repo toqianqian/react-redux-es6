@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  font-size: 12px;
+  font-family: "Microsoft YaHei",Helvetica,Arial,sans-serif; }
+
+ol, ul {
+  list-style: none; }
+
+input, label, select {
+  vertical-align: middle;
+  font: 100% "Microsoft YaHei",Tahoma; }
+
+a {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none; }
+
+input {
+  outline: none;
+  border: none; }
+
+h1, h2, h3 {
+  font-size: 14px;
+  font-weight: normal; }
